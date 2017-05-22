@@ -1,0 +1,21 @@
+.global {
+	background-color: Aquamarine;
+}
+
+#textbox {
+	padding-bottom: 10px;
+}
+
+#title {
+	padding-bottom: 10px;
+}
+
+h1 {
+	color: DarkSlateGray;
+}
+
+p {
+	color: DarkSlateGray;
+	font-family: Georgia;
+	font-size: 15px;
+}
